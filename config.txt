@@ -1,0 +1,17 @@
+16
+False http://en.boerse-frankfurt.de/stock/Bayer-Share/FSE 106.9 107.5
+False http://en.boerse-frankfurt.de/stock/BASF-Share 90.9 91.0
+False http://en.boerse-frankfurt.de/stock/Daimler-Share 70.5 70.6
+False http://en.boerse-frankfurt.de/stock/BMW-Share/FSE 83.0 83.3
+False http://en.boerse-frankfurt.de/stock/Deutsche_Bank-share 17.0 18.0
+False http://en.boerse-frankfurt.de/stock/commerzbank-Share 8.1 8.3
+False http://en.boerse-frankfurt.de/stock/SAP-Share 88.8 89.1
+False http://en.boerse-frankfurt.de/stock/Siemens-Share 122.1 122.6
+False http://en.boerse-frankfurt.de/stock/Lufthansa-Share 36.6 36.8
+False http://en.boerse-frankfurt.de/stock/EON-Share 88.8 89.1
+False http://en.boerse-frankfurt.de/stock/RWE-Share 34.15 34.3
+False http://en.boerse-frankfurt.de/stock/innogy-Share 88.8 89.1
+False http://en.boerse-frankfurt.de/stock/LANXESS-Share 66.05 66.2
+False http://en.boerse-frankfurt.de/stock/thyssenkrupp-Share 88.8 89.1
+False http://en.boerse-frankfurt.de/stock/Infineon-Share 34.15 34.3
+False http://en.boerse-frankfurt.de/stock/Vonovia-Share 34.15 34.3
